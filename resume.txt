@@ -1,1 +1,2 @@
 Name: Rohan
+strength: there are many of them, it takes much time to learn.
